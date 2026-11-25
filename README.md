@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohini2309/DSA_In_Python/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohini2309/DSA_In_Python/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Rohini2309/DSA_In_Python/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohini2309/DSA_In_Python/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Rohini2309/DSA_In_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohini2309/DSA_In_Python/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rohini2309/DSA_In_Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohini2309/DSA_In_Python/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Rohini2309/DSA_In_Python/tree/master/1314-matrix-block-sum) |
 ## Queue
